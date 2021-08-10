@@ -1,7 +1,4 @@
-Demonstration of Greedy Algorithms in Operating Systems:
+Demonstration of Greedy Algorithms in Operating Systems
 
-First Fit algorithm in Memory Management
-Next Fit algorithm in Memory Management
-Best Fit algorithm in Memory Management
-Worst Fit algorithm in Memory Management
-
+Two arrays with random data are used: blocks[10000] & processes[140000]. 
+For each dimension all algorithms are executed 5 times.
